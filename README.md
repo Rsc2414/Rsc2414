@@ -29,22 +29,6 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visual-studio-code)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishablichauhan&show_icons=true&theme=tokyonight" alt="Rishabh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishablichauhan&theme=tokyonight" alt="Rishabh's GitHub Streak" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/rishablichauhan/rishablichauhan/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 ---
 
@@ -52,8 +36,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-singh-chauhan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishablichauhan2414@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](#)
 
 ---
 
-⭐️ From [@rishablichauhan](https://github.com/rishablichauhan)
+⭐️ From [@Rsc2414](https://github.com/Rsc2414)
